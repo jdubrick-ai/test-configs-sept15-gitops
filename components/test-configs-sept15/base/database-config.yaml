@@ -1,0 +1,7 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: test-configs-sept15-database-config
+data:
+  VECTORDB_HOST: "test-configs-sept15-database"
+  VECTORDB_PORT: ""
